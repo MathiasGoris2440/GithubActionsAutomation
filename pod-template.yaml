@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: mypod-PLACEHOLDER
-  namespace: mathiasgoris
+  namespace: default
   labels:
     name: mypod
 spec:
