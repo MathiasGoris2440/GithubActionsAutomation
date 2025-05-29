@@ -15,10 +15,10 @@ jobs:
 
       - name: Generate random pod name
         id: vars
-        shell: pwsh
+        shell: bash
         run: |
-          $random = Get-Random -Minimum 10000 -Maximum 99999
-          echo "podname=mypod-$random" >> $env:GITHUB_OUTPUT
+          random=$(( RANDOM % 90000 + 10000 ))
+          echo "podname=mypod-$random" >> $GITHUB_OUTPUT
 
       - name: Replace placeholder in pod-template.yaml
         shell: pwsh

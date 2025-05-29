@@ -619,3 +619,96 @@
 [2025-05-29 12:21:13Z INFO CredentialManager] Creating type OAuth
 [2025-05-29 12:21:13Z INFO CredentialManager] Creating credential type: OAuth
 [2025-05-29 12:21:13Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:22:04Z INFO ConfigurationStore] stored True
+[2025-05-29 12:22:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:22:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:22:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:22:04Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:31Z INFO MessageListener] Message '5605640882364889239' received from session 'ec1c2b7d-3f90-4857-b3cc-5214943c51bf'.
+[2025-05-29 12:22:31Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:22:31Z INFO ConfigurationStore] stored True
+[2025-05-29 12:22:31Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:22:31Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:22:31Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:22:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:31Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:31Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-29 12:22:32Z INFO JobDispatcher] Job request 0 for plan 6ff383da-a504-4af5-93bb-00644b69d875 job cf32ed4b-38de-5518-ba21-be6bc64d7969 received.
+[2025-05-29 12:22:32Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-29 12:22:32Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-29 12:22:32Z INFO JobDispatcher] Job request 4d132f9c-c316-59f0-9cdb-d0771ef15b2a processed succeed.
+[2025-05-29 12:22:32Z INFO Terminal] WRITE LINE: 2025-05-29 12:22:32Z: Running job: deploy-to-k8s
+[2025-05-29 12:22:32Z INFO JobDispatcher] Start renew job request 0 for job cf32ed4b-38de-5518-ba21-be6bc64d7969.
+[2025-05-29 12:22:32Z INFO JobDispatcher] Successfully renew job cf32ed4b-38de-5518-ba21-be6bc64d7969, job is valid till 29/05/2025 12:32:32
+[2025-05-29 12:22:32Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin\Runner.Worker.exe'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2088 2508'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-29 12:22:32Z INFO ProcessInvokerWrapper] Process started with process id 27904, waiting for process exit.
+[2025-05-29 12:22:32Z INFO JobDispatcher] Send job request message to worker for job cf32ed4b-38de-5518-ba21-be6bc64d7969.
+[2025-05-29 12:22:32Z INFO ProcessChannel] Sending message of length 21269, with hash 'bbd10293dc5cfa127c1b594c6259e15b4b5e89f591bc82452a2fb04a0a0553eb'
+[2025-05-29 12:22:32Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-29 12:22:32Z INFO JobNotification] Entering StartMonitor
+[2025-05-29 12:22:33Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:22:33Z INFO ConfigurationStore] stored True
+[2025-05-29 12:22:33Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:22:33Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:22:33Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:22:33Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:22:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-29 12:22:57Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-29 12:22:57Z INFO ProcessInvokerWrapper] Finished process 27904 with exit code 102, and elapsed time 00:00:25.2673981.
+[2025-05-29 12:22:57Z INFO JobDispatcher] Worker finished for job cf32ed4b-38de-5518-ba21-be6bc64d7969. Code: 102
+[2025-05-29 12:22:57Z INFO JobDispatcher] finish job request for job cf32ed4b-38de-5518-ba21-be6bc64d7969 with result: Failed
+[2025-05-29 12:22:57Z INFO Terminal] WRITE LINE: 2025-05-29 12:22:57Z: Job deploy-to-k8s completed with result: Failed
+[2025-05-29 12:22:57Z INFO JobDispatcher] Stop renew job request for job cf32ed4b-38de-5518-ba21-be6bc64d7969.
+[2025-05-29 12:22:57Z INFO JobDispatcher] job renew has been cancelled, stop renew job cf32ed4b-38de-5518-ba21-be6bc64d7969.
+[2025-05-29 12:22:57Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-29 12:22:57Z INFO JobNotification] Entering EndMonitor
+[2025-05-29 12:22:57Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-29 12:23:23Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:23:23Z INFO ConfigurationStore] stored True
+[2025-05-29 12:23:23Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:23:23Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:23:23Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:23:23Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:24:14Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:24:14Z INFO ConfigurationStore] stored True
+[2025-05-29 12:24:14Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:24:14Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:24:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:24:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:25:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:25:04Z INFO ConfigurationStore] stored True
+[2025-05-29 12:25:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:25:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:25:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:25:04Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:25:54Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:25:54Z INFO ConfigurationStore] stored True
+[2025-05-29 12:25:54Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:25:54Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:25:54Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:25:54Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:26:45Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:26:45Z INFO ConfigurationStore] stored True
+[2025-05-29 12:26:45Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:26:45Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:26:45Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:26:45Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:27:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:27:35Z INFO ConfigurationStore] stored True
+[2025-05-29 12:27:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:27:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:27:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:27:35Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
