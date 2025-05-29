@@ -15,13 +15,14 @@ jobs:
 
       - name: Generate random pod name
         id: vars
-        shell: bash
+        shell: powershell
         run: |
-          random=$(( RANDOM % 90000 + 10000 ))
-          echo "podname=mypod-$random" >> $GITHUB_OUTPUT
+          $random = Get-Random -Minimum 10000 -Maximum 99999
+          echo "podname=mypod-$random" >> $env:GITHUB_OUTPUT
+    
 
       - name: Replace placeholder in pod-template.yaml
-        shell: pwsh
+        shell: powershell
         run: |
           $podname = '${{ steps.vars.outputs.podname }}'
           (Get-Content pod-template.yaml) -replace 'mypod-PLACEHOLDER', $podname | Set-Content generated-pod.yaml
