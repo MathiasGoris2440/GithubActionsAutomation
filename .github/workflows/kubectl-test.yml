@@ -34,4 +34,4 @@ jobs:
 
       - name: Get pods in namespace
         run: |
-          kubectl get pods -n <your-namespace>
+          kubectl get pods -n default
