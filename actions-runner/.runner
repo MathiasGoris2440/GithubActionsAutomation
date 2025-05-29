@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ERIK",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/qlN600wbbFDiaMN6Uk98VKWhRQjmWZ0jfaL4JbogxIqBDBvkSx/",
+  "gitHubUrl": "https://github.com/MathiasGoris2440/GithubActionsAutomation",
+  "workFolder": "_work"
+}
