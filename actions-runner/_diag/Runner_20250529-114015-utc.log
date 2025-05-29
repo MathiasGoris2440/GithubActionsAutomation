@@ -1,0 +1,336 @@
+[2025-05-29 11:40:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-29 11:40:15Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:15Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:15Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'Runner': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.runner'
+[2025-05-29 11:40:16Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-05-29 11:40:16Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-05-29 11:40:16Z INFO Listener] Version: 2.324.0
+[2025-05-29 11:40:16Z INFO Listener] Commit: da3412efd49b1cf1a0fbdcbcee4e4ac4cc2177c8
+[2025-05-29 11:40:16Z INFO Listener] Culture: en-GB
+[2025-05-29 11:40:16Z INFO Listener] UI Culture: en-GB
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO Listener] Validating directory permissions for: 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO CommandLineParser] Parse
+[2025-05-29 11:40:16Z INFO CommandLineParser] Parsing 1 args
+[2025-05-29 11:40:16Z INFO CommandLineParser] parsing argument
+[2025-05-29 11:40:16Z INFO CommandLineParser] HasArgs: False
+[2025-05-29 11:40:16Z INFO CommandLineParser] Adding Command: run
+[2025-05-29 11:40:16Z INFO Listener] Arguments parsed
+[2025-05-29 11:40:16Z INFO Runner] ExecuteCommand
+[2025-05-29 11:40:16Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin\Runner.Listener.dll
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] binPath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] RootFolder: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'Runner': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.runner'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] ConfigFilePath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.runner
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.runner_migrated'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.runner_migrated
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] CredFilePath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_migrated'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_migrated
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'Service': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.service'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.service
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'help': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'version': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'check': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Command 'configure': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Command 'remove': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-05-29 11:40:16Z INFO ConfigurationManager] LoadSettings
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-29 11:40:16Z INFO ConfigurationManager] Is configured: True
+[2025-05-29 11:40:16Z INFO ConfigurationStore] Read setting file: 319 chars
+[2025-05-29 11:40:16Z INFO ConfigurationManager] Settings Loaded
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-29 11:40:16Z INFO CommandSettings] Command 'run': 'True'
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-29 11:40:16Z INFO ConfigurationManager] Is configured: True
+[2025-05-29 11:40:16Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-05-29 11:40:16Z INFO Runner] Set runner startup type - Manual
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-29 11:40:16Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-29 11:40:16Z INFO Runner] RunAsync
+[2025-05-29 11:40:16Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-05-29 11:40:16Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-05-29 11:40:16Z INFO Runner] Falling back to original .runner settings
+[2025-05-29 11:40:16Z INFO ConfigurationManager] LoadSettings
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-29 11:40:16Z INFO ConfigurationManager] Is configured: True
+[2025-05-29 11:40:16Z INFO ConfigurationManager] Settings Loaded
+[2025-05-29 11:40:16Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "ERIK",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/qlN600wbbFDiaMN6Uk98VKWhRQjmWZ0jfaL4JbogxIqBDBvkSx/",
+  "GitHubUrl": "https://github.com/MathiasGoris2440/GithubActionsAutomation",
+  "WorkFolder": "_work"
+}
+[2025-05-29 11:40:16Z INFO MessageListener] Loading Credentials
+[2025-05-29 11:40:16Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:40:16Z INFO ConfigurationStore] stored True
+[2025-05-29 11:40:16Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:40:16Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:40:16Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:16Z INFO HostContext] Well known directory 'Root': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner'
+[2025-05-29 11:40:16Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams'
+[2025-05-29 11:40:16Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:16Z INFO MessageListener] Attempt to create session.
+[2025-05-29 11:40:16Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-29 11:40:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-29 11:40:16Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-29 11:40:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-29 11:40:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-29 11:40:16Z INFO RunnerServer] EstablishVssConnection
+[2025-05-29 11:40:16Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-29 11:40:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-29 11:40:17Z INFO MessageListener] VssConnection created
+[2025-05-29 11:40:17Z INFO Terminal] WRITE LINE: 
+[2025-05-29 11:40:17Z INFO Terminal] WRITE LINE: 
+[2025-05-29 11:40:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:17Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-29 11:40:17Z INFO MessageListener] Session created.
+[2025-05-29 11:40:17Z INFO MessageListener] Registering AuthMigrationChanged event handler.
+[2025-05-29 11:40:17Z INFO Terminal] WRITE LINE: Current runner version: '2.324.0'
+[2025-05-29 11:40:17Z INFO Terminal] WRITE LINE: 2025-05-29 11:40:17Z: Listening for Jobs
+[2025-05-29 11:40:17Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-05-29 11:40:17Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:40:17Z INFO ConfigurationStore] stored True
+[2025-05-29 11:40:17Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:40:17Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:40:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:40:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:17Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-29 11:40:18Z INFO MessageListener] Message '2147082489256224829' received from session 'ec1c2b7d-3f90-4857-b3cc-5214943c51bf'.
+[2025-05-29 11:40:18Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:40:18Z INFO ConfigurationStore] stored True
+[2025-05-29 11:40:18Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:40:18Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:40:18Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:40:18Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:18Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:18Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:18Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-29 11:40:19Z INFO JobDispatcher] Job request 0 for plan b5657313-20e4-49c7-b0d6-3794a488e7b0 job 083dc89f-c27d-5926-b350-c93ea975f66a received.
+[2025-05-29 11:40:19Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-05-29 11:40:19Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-05-29 11:40:19Z INFO Terminal] WRITE LINE: 2025-05-29 11:40:19Z: Running job: build
+[2025-05-29 11:40:19Z INFO JobDispatcher] Start renew job request 0 for job 083dc89f-c27d-5926-b350-c93ea975f66a.
+[2025-05-29 11:40:19Z INFO JobDispatcher] Successfully renew job 083dc89f-c27d-5926-b350-c93ea975f66a, job is valid till 29/05/2025 11:50:19
+[2025-05-29 11:40:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper] Starting process:
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin\Runner.Worker.exe'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2328 2340'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\bin'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-05-29 11:40:19Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-05-29 11:40:20Z INFO ProcessInvokerWrapper] Process started with process id 24748, waiting for process exit.
+[2025-05-29 11:40:20Z INFO JobDispatcher] Send job request message to worker for job 083dc89f-c27d-5926-b350-c93ea975f66a.
+[2025-05-29 11:40:20Z INFO ProcessChannel] Sending message of length 18431, with hash '04d1a3c660c13c81e2d291abe0cf5f56d3614befa100a06f6a1b610cfeb74ced'
+[2025-05-29 11:40:20Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:40:20Z INFO ConfigurationStore] stored True
+[2025-05-29 11:40:20Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:40:20Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:40:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:40:20Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:40:21Z INFO JobNotification] Entering JobStarted Notification
+[2025-05-29 11:40:21Z INFO JobNotification] Entering StartMonitor
+[2025-05-29 11:40:49Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-29 11:40:49Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-05-29 11:40:49Z INFO ProcessInvokerWrapper] Finished process 24748 with exit code 102, and elapsed time 00:00:29.3529077.
+[2025-05-29 11:40:49Z INFO JobDispatcher] Worker finished for job 083dc89f-c27d-5926-b350-c93ea975f66a. Code: 102
+[2025-05-29 11:40:49Z INFO JobDispatcher] finish job request for job 083dc89f-c27d-5926-b350-c93ea975f66a with result: Failed
+[2025-05-29 11:40:49Z INFO Terminal] WRITE LINE: 2025-05-29 11:40:49Z: Job build completed with result: Failed
+[2025-05-29 11:40:49Z INFO JobDispatcher] Stop renew job request for job 083dc89f-c27d-5926-b350-c93ea975f66a.
+[2025-05-29 11:40:49Z INFO JobDispatcher] job renew has been cancelled, stop renew job 083dc89f-c27d-5926-b350-c93ea975f66a.
+[2025-05-29 11:40:49Z INFO JobNotification] Entering JobCompleted Notification
+[2025-05-29 11:40:49Z INFO JobNotification] Entering EndMonitor
+[2025-05-29 11:40:49Z INFO MessageListener] Received job status event. JobState: Online
+[2025-05-29 11:41:11Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:41:11Z INFO ConfigurationStore] stored True
+[2025-05-29 11:41:11Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:41:11Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:41:11Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:41:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:42:01Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:42:01Z INFO ConfigurationStore] stored True
+[2025-05-29 11:42:01Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:42:01Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:42:01Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:42:01Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:42:51Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:42:51Z INFO ConfigurationStore] stored True
+[2025-05-29 11:42:51Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:42:51Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:42:51Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:42:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:43:41Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:43:41Z INFO ConfigurationStore] stored True
+[2025-05-29 11:43:41Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:43:41Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:43:41Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:43:41Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:44:32Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:44:32Z INFO ConfigurationStore] stored True
+[2025-05-29 11:44:32Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:44:32Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:44:32Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:44:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:45:22Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:45:22Z INFO ConfigurationStore] stored True
+[2025-05-29 11:45:22Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:45:22Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:45:22Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:45:22Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:46:12Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:46:12Z INFO ConfigurationStore] stored True
+[2025-05-29 11:46:12Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:46:12Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:46:12Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:46:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:47:03Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:47:03Z INFO ConfigurationStore] stored True
+[2025-05-29 11:47:03Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:47:03Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:47:03Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:47:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:47:53Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:47:53Z INFO ConfigurationStore] stored True
+[2025-05-29 11:47:53Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:47:53Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:47:53Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:47:53Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:48:43Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:48:43Z INFO ConfigurationStore] stored True
+[2025-05-29 11:48:43Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:48:43Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:48:43Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:48:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:49:34Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:49:34Z INFO ConfigurationStore] stored True
+[2025-05-29 11:49:34Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:49:34Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:49:34Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:49:34Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:50:24Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:50:24Z INFO ConfigurationStore] stored True
+[2025-05-29 11:50:24Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:50:24Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:50:24Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:50:24Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:51:14Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:51:14Z INFO ConfigurationStore] stored True
+[2025-05-29 11:51:14Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:51:14Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:51:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:51:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:52:04Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:52:04Z INFO ConfigurationStore] stored True
+[2025-05-29 11:52:04Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:52:04Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:52:04Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:52:04Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:52:55Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:52:55Z INFO ConfigurationStore] stored True
+[2025-05-29 11:52:55Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:52:55Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:52:55Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:52:55Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:53:45Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:53:45Z INFO ConfigurationStore] stored True
+[2025-05-29 11:53:45Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:53:45Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:53:45Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:53:45Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:54:35Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:54:35Z INFO ConfigurationStore] stored True
+[2025-05-29 11:54:35Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:54:35Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:54:35Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:54:35Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:55:26Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:55:26Z INFO ConfigurationStore] stored True
+[2025-05-29 11:55:26Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:55:26Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:55:26Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:55:26Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:56:16Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:56:16Z INFO ConfigurationStore] stored True
+[2025-05-29 11:56:16Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:56:16Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:56:16Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:56:16Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:57:06Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:57:06Z INFO ConfigurationStore] stored True
+[2025-05-29 11:57:06Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:57:06Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:57:06Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:57:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:57:56Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:57:56Z INFO ConfigurationStore] stored True
+[2025-05-29 11:57:56Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:57:56Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:57:56Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:57:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:58:47Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:58:47Z INFO ConfigurationStore] stored True
+[2025-05-29 11:58:47Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:58:47Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:58:47Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:58:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 11:59:37Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 11:59:37Z INFO ConfigurationStore] stored True
+[2025-05-29 11:59:37Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 11:59:37Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 11:59:37Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 11:59:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:00:27Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:00:27Z INFO ConfigurationStore] stored True
+[2025-05-29 12:00:27Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:00:27Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:00:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:00:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams
+[2025-05-29 12:01:18Z INFO ConfigurationStore] HasCredentials()
+[2025-05-29 12:01:18Z INFO ConfigurationStore] stored True
+[2025-05-29 12:01:18Z INFO CredentialManager] GetCredentialProvider
+[2025-05-29 12:01:18Z INFO CredentialManager] Creating type OAuth
+[2025-05-29 12:01:18Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-29 12:01:18Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\mathi\Documents\_School 2024-2025\MLOps\Labo_Github_Actions\GithubActionsAutomation\actions-runner\.credentials_rsaparams

@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "MathiasGoris2440/GithubActionsAutomation",
+  "pipelineDirectory": "GithubActionsAutomation",
+  "workspaceDirectory": "GithubActionsAutomation\\GithubActionsAutomation",
+  "repositories": {
+    "MathiasGoris2440/GithubActionsAutomation": {
+      "repositoryPath": "GithubActionsAutomation\\GithubActionsAutomation",
+      "lastRunOn": "05/29/2025 13:40:21 +02:00"
+    }
+  },
+  "lastRunOn": "05/29/2025 13:40:21 +02:00"
+}
