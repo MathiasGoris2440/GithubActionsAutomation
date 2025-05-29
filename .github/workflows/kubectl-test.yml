@@ -1,0 +1,32 @@
+name: Kubectl Test
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:  # also allow manual run
+
+jobs:
+  deploy-to-k8s:
+    runs-on: self-hosted  # use your local runner
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate random Pod name
+        id: vars
+        run: echo "podname=mypod-$(date +%s)" >> $GITHUB_OUTPUT
+
+      - name: Replace placeholder in pod-template.yaml
+        run: |
+          PODNAME="${{ steps.vars.outputs.podname }}"
+          sed "s/mypod-PLACEHOLDER/$PODNAME/" pod-template.yaml > generated-pod.yaml
+          cat generated-pod.yaml
+
+      - name: Apply Pod to Kubernetes cluster
+        run: |
+          kubectl apply -f generated-pod.yaml
+
+      - name: Get pods in namespace
+        run: |
+          kubectl get pods -n <your-namespace>
